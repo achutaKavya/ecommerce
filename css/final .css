@@ -1,0 +1,53 @@
+.container {
+    max-width: 1000px;
+    margin: 0 center;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  h1 {
+    color: #dbfbff;
+    font-size: 6.5rem;
+    width: 100%;
+  }
+  
+  p {
+    font-size: 50px;
+    color: #dbfbff;
+  }
+  
+  #transaction-number {
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: #dbfbff;
+    text-align: center;
+  }
+  
+  #current-time {
+    font-style: italic;
+    font-size: 2.5rem;
+    color: #dbfbff;
+    text-align: center;
+  }
+
+  .container a{
+    font-size: 3.5rem;
+    background-color: rgb(7, 4, 50);
+    color: #dbfbff;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+  }
+
+  .container:hover{
+    
+    transform: scale(1.1);
+    text-align: center;
+  }
+
+  a:hover{
+    color: rgb(180, 254, 31);
+  }
+  
+  
